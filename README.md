@@ -3,7 +3,7 @@
 - 💞️ I’m looking for **early career software engineering roles**
 - 👀 I’m interested in web development, High Performance Computing, software design and in general solving stimulating problems with real-world implications
 - 🌱 I’m currently learning ReactJS, DjangoREST
-- :dancer: Fun fact **I love to swim :swimmer: and Water is my favourite liquid**
+- :dancer: Fun fact about me,**I love to swim :swimmer: and Water is my favourite liquid**
 - 📫 Reach me via email ([sarwar.hussain@yale.edu](sarwar.hussain@yale.edu))
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${sarwar1995}.${sarwar1995})
